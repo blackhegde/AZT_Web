@@ -1,0 +1,47 @@
+{
+    "header":{
+        "home": "Home",
+        "solutions": "Solutions",
+        "services": "Services",
+        "collaboration": "Collaboration",
+        "contact": "Contact Us",
+        "categories": "Categories",
+        "about": "About",
+        "admin": "Admin"
+    },
+    "body":{
+        "shortTitle": "Enterprise Solutions",
+        "slogan1": "Transform Your Business",
+        "slogan2": "with Cutting-Edge Solutions",
+        "title": "Leading the Future of Enterprise Technology",
+        "playBtn": "Watch Demo",
+        "contactBtn": "Contact Now!",
+        "welcomeMessage": "Empower your organization with scalable, innovative technology solutions designed for the modern enterprise",
+        "learnMore": "Learn More About Our Services",
+        "testimonials": "What Our Clients Say",
+        "categoriesTitle": "Solution Categories",
+        "categoriesDesc": "Comprehensive technology solutions organized by category, each containing specialized products",
+        "telcoDesc": "With more than 08 years in the field of information services and telecommunication, AZT is one of the strongest local SI in Vietnam market, mostly focusing on the core network. Being strategic partner of world leading technology solution providers, such as Samsung, Soti, ManageEngine, Vmware, IBM, Oracle CGBU, Sonus Networks, Allot Communications, Anritsu, HPE, etc…   we are proud to be a golden gate to Vietnam telco market and a trusted solution partner of top three Vietnam’s CSPs.",
+        "mdmDesc": "We are one of the best MDM integrator.We deployed thousand device license of Samsung Knox, Soti MobiControl, ManageEngine, and IBM Maas 360 for vietnamese customer each year.",
+        "itSolutionDesc": "I.T and Telecom convergence is no longer a technology trend, it is today reality. AZT delivers end-to-end technology solutions for customers in telecommunications, banking, government, and education, focusing on deep packet inspection, cybersecurity, and big data analytics. \n\n Through partnerships with global technology leaders, AZT aims to be a trusted technology bridge connecting Vietnam with the world.",
+        "futureAiPlatformDesc": "Future AI Platform is an automated Machine Learning and Deep Learning Platform that enables users to design, train and evaluate AI models without programming knowledge.\nThrough an intuitive interface and guided workflows, users can quickly build and deploy intelligent models to solve problems across multiple domains.\nThe platform supports information monitoring, image and data processing, and AI-based analytics with high speed and precision.\n\nUsers can freely create custom object recognition systems and develop machine vision applications such as:\n• Product defect detection in manufacturing\n• License plate recognition\n• Human behavior tracking\n\nIn addition, Future AI Platform integrates information security management and monitoring capabilities, detecting and alerting on malicious code, suspicious file paths, behaviors, and event sequences - helping organizations enhance their cybersecurity posture through intelligent automation.",
+        "xSenseSecDesc": "SIEM (Security Information and Event Manage) is a comprehensive monitoring platform, playing an critical and indispensable role in an organization’s Security Operations Center (SOC).\n\nThe solution enables collection, normalization, storage, and correlation analysis of all logs and events generated across the organization’s IT infrastructure, providing powerful data monitoring and analysis capabilities\n\nIt allows users to search, monitor, analyze, and visualize data generated from various devices and systems, helping organizations enhance security visibility, incident response, and operational efficiency."
+    },
+    "footer":{
+        "addressDtl": "No 63 Bac Lai Xa Street, Hoai Duc Commune, Hanoi, Vietnam.",
+        "address": "Address",
+        "tax": "Tax Code",
+        "title": "Leading the Future of Enterprise Technology",
+        "contact": "Contact",
+        "phone": "Phone",
+        "email": "Email",
+        "legal": "Legal",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "secutiry": "Security",
+        "company": "Company",
+        "about": "About",
+        "product": "Product",
+        "categories":"Categories"
+    }
+}

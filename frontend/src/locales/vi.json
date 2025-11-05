@@ -1,0 +1,47 @@
+{
+    "header":{
+        "home": "Trang Chủ",
+        "solutions": "Giải Pháp",
+        "services": "Dịch Vụ",
+        "collaboration": "Đối tác",
+        "contact": "Liên Hệ",
+        "categories": "Lĩnh vực",
+        "about": "Về Chúng Tôi",
+        "admin": "Quản Trị"
+    },
+    "body":{
+        "shortTitle": "Giải Pháp Doanh Nghiệp",
+        "slogan1": "Chuyển Đổi Doanh Nghiệp Của Bạn",
+        "slogan2": "với Các Giải Pháp Tiên Tiến",
+        "title": "Dẫn Đầu Tương Lai Công Nghệ Doanh Nghiệp",
+        "playBtn": "Xem Demo",
+        "contactBtn": "Liên Hệ Ngay!",
+        "welcomeMessage": "Tăng cường cho tổ chức của bạn với những giải pháp công nghệ đổi mới, khả năng mở rộng được thiết kế cho doanh nghiệp hiện đại",
+        "learnMore": "Tìm Hiểu Thêm Về Dịch Vụ Của Chúng Tôi",
+        "testimonials": "Khách Hàng Nói Gì Về Chúng Tôi",
+        "categoriesTitle": "Lĩnh Vực",
+        "categoriesDesc": "Các giải pháp công nghệ toàn diện trên các lĩnh vực trọng điểm",
+        "telcoDesc": "Với hơn 8 năm kinh nghiệm trong lĩnh vực dịch vụ thông tin và truyền thông, AZT là một trong những nhà tích hợp hệ thống (SI) hàng đầu tại thị trường Việt Nam, tập trung chủ yếu vào core network. Hiện đang là đối tác chiến lược cho các nhà cung câp giải pháp công nghệ hàng đầu, như Samsung, Soti, ManageEngine, Vmware, IBM, Oracle CGBU, Sonus Networks, Allot Communications, Anritsu, HPE, v.v... Chúng tôi tự hào là “cánh cổng vàng” bước vào thị trường viễn thông Việt Nam và là đối tác giải pháp đáng tin cậy của ba nhà mạng hàng đầu Việt Nam",
+        "mdmDesc": "Chúng tôi là một trong những đơn vị tích hợp MDM hàng đầu tại Việt Nam. Mỗi năm, chúng tôi triển khai hàng nghìn giấy phép thiết bị cho các giải pháp như Samsung Knox, SOTI MobiControl, ManageEngine và IBM Maas 360 dành cho khách hàng Việt Nam",
+        "itSolutionDesc":"Sự hội tụ giữa CNTT và Viễn thông không còn là xu hướng mà đã trở thành hiện thực.\n\nAZT cung cấp giải pháp công nghệ toàn diện (end-to-end) cho các khách hàng trong lĩnh vực viễn thông, ngân hàng, chính phủ và giáo dục, tập trung vào lĩnh vực phân tích gói tin chuyên sâu (Deep Packet Inspection), an ninh mạng và phân tích dữ liệu lớn (Big Data Analytics).\n\nVới các đối tác công nghệ hàng đầu thế giới, AZT hướng tới trở thành cầu nối công nghệ đáng tin cậy giữa Việt Nam và thế giới",
+        "futureAiPlatformDesc":  "Future AI Platform là nền tảng Học máy (ML) và Học sâu (DL) tự động, cho phép người dùng thiết kế, huấn luyện và đánh giá các mô hình AI mà không cần lập trình.\nVới giao diện trực quan và quy trình hướng dẫn từng bước, người dùng có thể nhanh chóng xây dựng và triển khai các mô hình thông minh để giải quyết bài toán trong nhiều lĩnh vực.\nNền tảng hỗ trợ Giám sát thông tin, xử lý hình ảnh và dữ liệu với phân tích AI tốc độ cao và độ chính xác vượt trội.\n\nNgười dùng có thể tự do tạo dựng hệ thống nhận dạng đối tượng và phát triển các ứng dụng thị giác máy tính như:\n• Phát hiện lỗi sản phẩm trong sản xuất\n• Nhận dạng biển số xe\n• Phát hiện, theo dõi hành vi con người\n\nNgoài ra, nền tảng còn được áp dụng trong quản lý và giám sát an ninh thông tin, giúp phát hiện và cảnh báo mã độc, đường dẫn đáng ngờ, hành vi bất thường và chuỗi sự kiện đáng ngờ, hỗ trợ các tổ chức tăng cường an toàn thông tin nhờ tự động hóa thông minh.",
+        "xSenseSecDesc": "SIEM (Security Information and Event Management) là một nền tảng giám sát toàn diện, đóng vai trò quan trọng và không thể thiếu trong SOC của một tổ chức hoặc đơn vị.\n\nGiải pháp cho phép thu thập, chuẩn hóa, lưu trữ và phân tích tương quan tất cả các log và sự kiện được tạo ra trong hệ thống CNTT của tổ chức và cung cấp khả năng giám sát và phân tích dữ liệu.\n\nGiải pháp có thể được sử dụng để tìm kiếm, giám sát, phân tích và trực quan hóa dữ liệu được tạo ra bởi tất cả các thiết bị khác nhau."
+    },
+    "footer":{
+        "addressDtl": "Số 63 Đường Bắc Lại Xã, Xã Hoài Đức, Hà Nội, Việt Nam.",
+        "address": "Địa Chỉ",
+        "tax": "Mã Số Thuế",
+        "contact": "Liên Hệ",
+        "title": "Dẫn Đầu Tương Lai Công Nghệ Doanh Nghiệp",
+        "phone": "Điện Thoại",
+        "email": "Email",
+        "legal": "Pháp Lý",
+        "privacy": "Chính Sách Bảo Mật",
+        "terms": "Điều Khoản Dịch Vụ",
+        "secutiry": "Bảo Mật",
+        "company": "Công Ty",
+        "about": "Về",
+        "product": "Sản Phẩm",
+        "categories":"Lĩnh Vực"
+    }
+}
